@@ -33,6 +33,7 @@ function sortearAmigo() {
 
     if (amigos.length == 0) {
         alert('Não há nenhum amigo na lista')
+        return;
     }
 
     let indiceSorteado = Math.floor(Math.random() * amigos.length);
