@@ -15,6 +15,7 @@
 ## Índice
 
 - [Descrição do Projeto](#descrição-do-projeto)
+- [Demonstração do Projeto](#demonstração-do-projeto)
 - [Status do Projeto](#status-do-projeto)
 - [Funcionalidades](#funcionalidades-e-demonstração-da-aplicação)
 - [Acesso ao Projeto](#acesso-ao-projeto)
@@ -29,6 +30,11 @@
 O projeto **Amigo Secreto** é uma aplicação web simples que permite aos usuários adicionar nomes de amigos em uma lista e realizar um sorteio aleatório para escolher um amigo secreto. A interface é intuitiva e responsiva, feita com HTML, CSS e JavaScript puro.
 
 ---
+
+## Demonstração do Projeto
+
+![Demonstração do projeto](https://s1.ezgif.com/tmp/ezgif-1e7d490ea7dbf9.gif)
+
 
 ## Status do Projeto
 
