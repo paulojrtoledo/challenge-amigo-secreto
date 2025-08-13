@@ -54,8 +54,8 @@ Você pode clonar este repositório para seu computador com o comando:
 git clone https://github.com/seu-usuario/amigo-secreto.git
 ```
 Tecnologias Utilizadas:
-HTML
-CSS
-JavaScript
+HTML,
+CSS,
+JavaScript,
 
-Projeto desenvolvido por Paulo Emilio de Toledo Jr como exercício de estudo da One Next Education.
+Projeto desenvolvido por Paulo Emilio de Toledo Jr como exercício de estudo da ONE - Oracle Next Education. 
