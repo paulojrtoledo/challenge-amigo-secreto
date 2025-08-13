@@ -56,6 +56,6 @@ git clone https://github.com/seu-usuario/amigo-secreto.git
 Tecnologias Utilizadas:
 HTML,
 CSS,
-JavaScript,
+JavaScript
 
 Projeto desenvolvido por Paulo Emilio de Toledo Jr como exercício de estudo da ONE - Oracle Next Education. 
